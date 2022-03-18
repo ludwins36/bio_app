@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\Interop.CoreScanner.dll
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\SampleApp_CSharp.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\lector\new\csharp\Output\Debug\AnyCPU\ScannerSDK_SampleAPP_CSharp.exe.config
+C:\Users\Public\Documents\lector\new\csharp\Output\Debug\AnyCPU\ScannerSDK_SampleAPP_CSharp.exe
+C:\Users\Public\Documents\lector\new\csharp\Output\Debug\AnyCPU\ScannerSDK_SampleAPP_CSharp.pdb
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\Scanner_SDK_Sample_Application.DadfScriptEditor.resources
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\Scanner_SDK_Sample_Application.frmScannerApp.resources
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\Scanner_SDK_Sample_Application.Properties.Resources.resources
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\Scanner_SDK_Sample_Application.TopologyPopupForm.resources
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\SampleApp_CSharp.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\ScannerSDK_SampleAPP_CSharp.exe
+C:\Users\Public\Documents\lector\new\csharp\Scanner SDK\Sample Applications\src\SampleApp_CSharp\obj\Debug\ScannerSDK_SampleAPP_CSharp.pdb

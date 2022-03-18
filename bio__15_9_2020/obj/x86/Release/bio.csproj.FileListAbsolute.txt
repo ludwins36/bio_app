@@ -1,0 +1,731 @@
+C:\Users\Public\Documents\bio\bio\bio\bin\Release\bio.exe.config
+C:\Users\Public\Documents\bio\bio\bio\bin\Release\bio.exe
+C:\Users\Public\Documents\bio\bio\bio\bin\Release\bio.pdb
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.reportes.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\RdlCompile.cache
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\RdlCompile.compiled
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.exe
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+E:\bio\bio\bio\bin\Release\bio.exe.config
+E:\bio\bio\bio\obj\x86\Release\bio.exe
+E:\bio\bio\bio\obj\x86\Release\bio.pdb
+E:\bio\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+E:\bio\bio\bio\obj\x86\Release\bio.Autenticar.resources
+E:\bio\bio\bio\obj\x86\Release\bio.base_reporte.resources
+E:\bio\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+E:\bio\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+E:\bio\bio\bio\obj\x86\Release\bio.consultas.resources
+E:\bio\bio\bio\obj\x86\Release\bio.Configura.resources
+E:\bio\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+E:\bio\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+E:\bio\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+E:\bio\bio\bio\obj\x86\Release\bio.Registro.resources
+E:\bio\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+E:\bio\bio\bio\obj\x86\Release\bio.UserControl1.resources
+E:\bio\bio\bio\obj\x86\Release\bio.reporte2.resources
+E:\bio\bio\bio\obj\x86\Release\bio.reportes.resources
+E:\bio\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+E:\bio\bio\bio\obj\x86\Release\RdlCompile.cache
+E:\bio\bio\bio\obj\x86\Release\RdlCompile.compiled
+E:\bio\bio\bio\bin\Release\bio.exe
+E:\bio\bio\bio\bin\Release\bio.pdb
+E:\bio\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\bio.exe.config
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\bio.exe
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\bio.pdb
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.reportes.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.reportes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\RdlCompile.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\bio\bio\obj\x86\Release\RdlCompile.compiled
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\DPFPDevNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\DPFPEngNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\DPFPShrNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\DPFPVerNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Form1.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Release\bio.exe.config
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Release\bio.exe
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Release\bio.pdb
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.exe
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\bin\Release\bio.exe.config
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.exe
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\bin\Release\bio.exe
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\bin\Release\bio.pdb
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Form1.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Videos\trabajo\bio_listo\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Form1.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.Resources.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Videos\trabajo\bio_listo_sql\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Form1.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Release\bio.exe.config
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Release\bio.exe
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Release\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Release\Properties.Resources.Designer.cs.dll
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.exe
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Release\bio.exe.config
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Release\bio.exe
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Release\Properties.Resources.Designer.cs.dll
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.biometria.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Form15.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.exe
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\trabajo\notaria\fuentes\bio_listo_sql_12 10 2019\bio_listo_sql_12 10 2019\bio\bio\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\trabajo\notaria\fuentes\bio_listo_sql_12 10 2019\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\trabajo\notaria\fuentes\bio_listo_sql_12 10 2019\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Release\bio.pdb
+J:\bio_fuente_12_10_2019\bin\Release\bio.exe.config
+J:\bio_fuente_12_10_2019\obj\x86\Release\bio.exe
+J:\bio_fuente_12_10_2019\obj\x86\Release\bio.pdb
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\bio.exe.config
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.exe
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.pdb
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\bio.exe
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\bio.pdb
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\bin\Release\MetroFramework.dll
+C:\Users\computadora_central1\Videos\bio_fuente_12_10_2019\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\bio.exe
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\bio.pdb
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central1\Videos\bio_fuente_24_02_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\MEGAsync\bio\bio_fuente_01_03_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.lector.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\bio.exe.config
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Documents\bio_fuente_01_03_2020\bin\Release\MetroFramework.dll
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_01_03_2020\obj\x86\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\bio.exe.config
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Documents\bio_fuente_7_3_2020\bin\Release\MetroFramework.dll
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.lector.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Documents\bio_fuente_7_3_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\bio.exe.config
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bin\Release\MetroFramework.dll
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.lector.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.exe
+C:\Users\Public\Documents\bio_fuente_8_3_2020\obj\x86\Release\bio.pdb
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.lector.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Release\bio.exe.config
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.registro_from.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\AForge.Video.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.registro_from.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__06_09_2020\bio__06_09_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Videos\bio__11_8_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Videos\bio__11_8_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Videos\bio__11_8_2020\obj\x86\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\bin\Release\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Activacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.biometria.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Form15.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.impresora.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Form11.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.MainForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.lector.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.registro_from.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__11_8_2020\obj\x86\Release\bio.pdb

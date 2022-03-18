@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DAA781E0-8531-4758-A458-65783D15BCC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bio</RootNamespace>
+    <AssemblyName>bio</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\..\..\..\..\..\Desktop\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\..\..\..\..\..\Desktop\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\programas\programacion\frameworks de diseño\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DPFPDevNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=696774c42ee28c57, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Desktop\REFERENCIAS\DPFPDevNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPEngNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=7fe76e7adf19964b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Desktop\REFERENCIAS\DPFPEngNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPShrNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=d902fe275a8d6cf2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Desktop\REFERENCIAS\DPFPShrNET.dll</HintPath>
+    </Reference>
+    <Reference Include="DPFPVerNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4de0a9c4dcc83984, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Desktop\REFERENCIAS\DPFPVerNET.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="ftrSDKHelper12">
+      <HintPath>..\..\..\ftrSDKHelper12.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.CoreScanner, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Pictures\Interop.CoreScanner.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>D:\programas\programacion\frameworks de diseño\Metro DLLS\Metro DLLS\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Properties.Resources.Designer.cs">
+      <HintPath>..\..\..\..\Pictures\Properties.Resources.Designer.cs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clases\validaciones\Activacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clases\validaciones\Activacion.Designer.cs">
+      <DependentUpon>Activacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datos_personal.cs" />
+    <Compile Include="formularios\mantenimiento\biometria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\mantenimiento\biometria.Designer.cs">
+      <DependentUpon>biometria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\lector\DadfScriptEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\DadfScriptEditor.Designer.cs">
+      <DependentUpon>DadfScriptEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\papelera\bd_comun_acces.cs" />
+    <Compile Include="clases\configuracion\Configuracion.cs" />
+    <Compile Include="clases\biometrico futronic\ComboBoxItem.cs" />
+    <Compile Include="clases\biometrico futronic\DbRecord.cs" />
+    <Compile Include="formularios\papelera\Clientes_acces.cs" />
+    <Compile Include="formularios\crystal_report\Diligencia_de_presentacion_personal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Diligencia_de_presentacion_personal.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\crystal_report\Diligencia_de_presentacion_personalcs.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Diligencia_de_presentacion_personalcs.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\crystal_report\diligencia_reconocimiento.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>diligencia_reconocimiento.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\crystal_report\firma_Ruego.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>firma_Ruego.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\crystal_report\reconocimiento_firma_huella_contenido.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reconocimiento_firma_huella_contenido.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\crystal_report\registro_de_firma.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>registro_de_firma.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\papelera\impresora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\papelera\impresora.Designer.cs">
+      <DependentUpon>impresora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\EnrollmentName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\EnrollmentName.Designer.cs">
+      <DependentUpon>EnrollmentName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\autenticar\Autenticar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\autenticar\Autenticar.Designer.cs">
+      <DependentUpon>Autenticar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\clientes\Clientes.cs" />
+    <Compile Include="clases\validaciones\Defabrica.cs" />
+    <Compile Include="formularios\biometrico\digital_person\CapturarHuella.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\biometrico\digital_person\CapturarHuella.Designer.cs">
+      <DependentUpon>CapturarHuella.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\biometrico\digital_person\CaptureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\biometrico\digital_person\CaptureForm.Designer.cs">
+      <DependentUpon>CaptureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\inicio sesion\Acceso.cs" />
+    <Compile Include="clases\llamar formularios\call.cs" />
+    <Compile Include="clases\conexion\bd_comun.cs" />
+    <Compile Include="formularios\consultas\consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\consultas\consultas.Designer.cs">
+      <DependentUpon>consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\conversiones\ConvertImage.cs" />
+    <Compile Include="formularios\mantenimiento\Configura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\mantenimiento\Configura.Designer.cs">
+      <DependentUpon>Configura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\mantenimiento\Configuraciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\mantenimiento\Configuraciones.Designer.cs">
+      <DependentUpon>Configuraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\menu\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\menu\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\consultas\comparaciones\registro\MainForm_new.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\consultas\comparaciones\registro\MainForm_new.Designer.cs">
+      <DependentUpon>MainForm_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\papelera\MainForm_aut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\papelera\MainForm_aut.Designer.cs">
+      <DependentUpon>MainForm_aut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iso15434.cs" />
+    <Compile Include="formularios\lector\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\MainForm.Definitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\menu\presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\menu\presentacion.Designer.cs">
+      <DependentUpon>presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lector.Designer.cs">
+      <DependentUpon>lector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notariaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notariaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="notariaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notariaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="objetos.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="formularios\usuarios\usuario_comun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\usuarios\usuario_comun.Designer.cs">
+      <DependentUpon>usuario_comun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\seguridad\seguridad.cs" />
+    <Compile Include="clases\validaciones\validar.cs" />
+    <Compile Include="clases\usuarios\usuario_Demo.cs" />
+    <Compile Include="formularios\mantenimiento\Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\mantenimiento\Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\registro\Registrar_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\registro\Registrar_clientes.Designer.cs">
+      <DependentUpon>Registrar_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\clientes\Transacciones.cs" />
+    <Compile Include="controles\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="controles\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte2.Designer.cs">
+      <DependentUpon>reporte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\SelectUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\biometrico\futronic\SelectUser.Designer.cs">
+      <DependentUpon>SelectUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_2.Designer.cs">
+      <DependentUpon>reporte_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_3.Designer.cs">
+      <DependentUpon>reporte_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\reportes_crystal\reporte_4.Designer.cs">
+      <DependentUpon>reporte_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registro_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registro_from.Designer.cs">
+      <DependentUpon>registro_from.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\FHC1_2T.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FHC1_2T.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\FHC2_2T.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FHC2_2T.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\FR_2T.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FR_2T.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\PP1_2T.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PP1_2T.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\papelera\Transacciones_acces.cs" />
+    <Compile Include="clases\lector\Scanner.cs" />
+    <Compile Include="clases\lector\ScannerAttribute.cs" />
+    <Compile Include="formularios\lector\TopologyPopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewAdvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewImageVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewMiscellaneous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewRSM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewScannerAcction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewScanToConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\lector\ViewSSW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clases\lector\XmlReader.cs" />
+    <Compile Include="VerDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VerDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="clases\validaciones\Activacion.resx">
+      <DependentUpon>Activacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\mantenimiento\biometria.resx">
+      <DependentUpon>biometria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\lector\DadfScriptEditor.resx">
+      <DependentUpon>DadfScriptEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\Diligencia_de_presentacion_personal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Diligencia_de_presentacion_personal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\Diligencia_de_presentacion_personalcs.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Diligencia_de_presentacion_personalcs.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\diligencia_reconocimiento.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>diligencia_reconocimiento.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\firma_Ruego.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>firma_Ruego.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\reconocimiento_firma_huella_contenido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reconocimiento_firma_huella_contenido.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\crystal_report\registro_de_firma.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>registro_de_firma.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\papelera\impresora.resx">
+      <DependentUpon>impresora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\biometrico\futronic\EnrollmentName.resx">
+      <DependentUpon>EnrollmentName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\autenticar\Autenticar.resx">
+      <DependentUpon>Autenticar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\biometrico\digital_person\CapturarHuella.resx">
+      <DependentUpon>CapturarHuella.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\biometrico\digital_person\CaptureForm.resx">
+      <DependentUpon>CaptureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\consultas\consultas.resx">
+      <DependentUpon>consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\mantenimiento\Configura.resx">
+      <DependentUpon>Configura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\mantenimiento\Configuraciones.resx">
+      <DependentUpon>Configuraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\menu\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\biometrico\futronic\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\consultas\comparaciones\registro\MainForm_new.resx">
+      <DependentUpon>MainForm_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\papelera\MainForm_aut.resx">
+      <DependentUpon>MainForm_aut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\menu\presentacion.resx">
+      <DependentUpon>presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\lector\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lector.resx">
+      <DependentUpon>lector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="formularios\usuarios\usuario_comun.resx">
+      <DependentUpon>usuario_comun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\mantenimiento\Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\registro\Registrar_clientes.resx">
+      <DependentUpon>Registrar_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controles\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\reporte2.resx">
+      <DependentUpon>reporte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\biometrico\futronic\SelectUser.resx">
+      <DependentUpon>SelectUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\reporte_2.resx">
+      <DependentUpon>reporte_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\reporte_3.resx">
+      <DependentUpon>reporte_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\reportes_crystal\reporte_4.resx">
+      <DependentUpon>reporte_4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registro_from.resx">
+      <DependentUpon>registro_from.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\FHC1_2T.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FHC1_2T.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\FHC2_2T.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FHC2_2T.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\FR_2T.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FR_2T.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\PP1_2T.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PP1_2T.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\lector\TopologyPopupForm.resx">
+      <DependentUpon>TopologyPopupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.log" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.tlog\CL.command.1.tlog" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.tlog\ftrSDKHelper.lastbuildstate" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.tlog\metagen.write.1.tlog" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.tlog\unsuccessfulbuild" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper.vcxprojAssemblyReference.cache" />
+    <None Include="ftrSDKHelper\Debug\ftrSDKHelper12.Build.CppClean.log" />
+    <None Include="ftrSDKHelper\ftrSDKHelper.vcxproj" />
+    <None Include="ftrSDKHelper\ftrSDKHelper.vcxproj.filters" />
+    <None Include="ftrSDKHelper\x64\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\app.res" />
+    <None Include="ftrSDKHelper\x64\Debug\AssemblyInfo.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\AssemblyInfo.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrException.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrException.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.log" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\CL.command.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\CL.read.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\CL.write.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\ftrSDKHelper.lastbuildstate" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\link.command.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\link.read.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\link.write.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\metagen.read.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\metagen.write.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\rc.command.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\rc.read.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\rc.write.1.tlog" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.tlog\unsuccessfulbuild" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.vcxprojAssemblyReference.cache" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.vcxprojResolveAssemblyReference.cache" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper12.Build.CppClean.log" />
+    <None Include="ftrSDKHelper\x64\Debug\ftrSDKHelper12.pch" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicEnrollment.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicEnrollment.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicIdentification.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicIdentification.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicVerification.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\FutronicVerification.xdc" />
+    <None Include="ftrSDKHelper\x64\Debug\Stdafx.obj" />
+    <None Include="ftrSDKHelper\x64\Debug\Stdafx.xdc" />
+    <None Include="notariaDataSet.xsc">
+      <DependentUpon>notariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="notariaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notariaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notariaDataSet.xss">
+      <DependentUpon>notariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="notariaDataSet1.xsc">
+      <DependentUpon>notariaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="notariaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notariaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notariaDataSet1.xss">
+      <DependentUpon>notariaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VerDBDataSet.xsc">
+      <DependentUpon>VerDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VerDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VerDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VerDBDataSet.xss">
+      <DependentUpon>VerDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%2922.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29211.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ID Verified_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sync_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ID Verified_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Services_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout Rounded Down_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%2911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System Task_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Groups_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fingerprint_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Group Woman Man_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coworking_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add File_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_48px11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add File_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sync_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_48px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Folder_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search Folder_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_48px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Services_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contact_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manager_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Identity Theft_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer Support_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Identity Theft_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer Support_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva imagen de mapa de bits.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add File_48px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compact Camera_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48px-Crystal_Clear_app_kedit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\More_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autenticacion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manager_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\More_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nueva imagen de mapa de bits1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ftrSDKHelper\app.ico" />
+    <Content Include="ftrSDKHelper\app.rc" />
+    <Content Include="ftrSDKHelper\AssemblyInfo.cpp" />
+    <Content Include="ftrSDKHelper\Debug\ftrSDKHelper12.dll" />
+    <Content Include="ftrSDKHelper\Debug\vc141.pdb" />
+    <Content Include="ftrSDKHelper\defs.h" />
+    <Content Include="ftrSDKHelper\ftrapi.h" />
+    <Content Include="ftrSDKHelper\ftrException.cpp" />
+    <Content Include="ftrSDKHelper\ftrException.h" />
+    <Content Include="ftrSDKHelper\ftrSDKHelper.cpp" />
+    <Content Include="ftrSDKHelper\ftrSDKHelper.h" />
+    <Content Include="ftrSDKHelper\ftrSDKHelper.vcxproj.user" />
+    <Content Include="ftrSDKHelper\FutronicEnrollment.cpp" />
+    <Content Include="ftrSDKHelper\FutronicEnrollment.h" />
+    <Content Include="ftrSDKHelper\FutronicIdentification.cpp" />
+    <Content Include="ftrSDKHelper\FutronicIdentification.h" />
+    <Content Include="ftrSDKHelper\FutronicVerification.cpp" />
+    <Content Include="ftrSDKHelper\FutronicVerification.h" />
+    <Content Include="ftrSDKHelper\resource.h" />
+    <Content Include="ftrSDKHelper\Stdafx.cpp" />
+    <Content Include="ftrSDKHelper\Stdafx.h" />
+    <Content Include="ftrSDKHelper\x64\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.asm" />
+    <Content Include="ftrSDKHelper\x64\Debug\ftrSDKHelper12.dll" />
+    <Content Include="ftrSDKHelper\x64\Debug\vc141.pdb" />
+    <Content Include="icon_success.png" />
+    <Content Include="Images\icon_error.png" />
+    <Content Include="Images\icon_success.png" />
+    <None Include="Resources\Moleskine_48px1.png" />
+    <None Include="Resources\48px-Crystal_Clear_app_kedit1.png" />
+    <None Include="Resources\ID Verified_48px2.png" />
+    <None Include="Resources\descarga %281%29111.jpg" />
+    <None Include="Resources\Touch ID_48px2.png" />
+    <None Include="Resources\Moleskine_48px.png" />
+    <None Include="Resources\futronic.png" />
+    <None Include="Resources\digital person.png" />
+    <None Include="Resources\0000001.png" />
+    <None Include="Resources\000000.png" />
+    <None Include="Resources\teclado2.png" />
+    <None Include="Resources\teclado1.png" />
+    <None Include="Resources\teclado.png" />
+    <None Include="Resources\escaner2.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\descarga11.png" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\Google Docs_48px.png" />
+    <None Include="Resources\Save Close_48px.png" />
+    <None Include="Resources\Add_48px.png" />
+    <None Include="Resources\fingerprint.png" />
+    <None Include="Resources\huellas new2.png" />
+    <None Include="Resources\huellas new1.png" />
+    <None Include="Resources\huellas new.png" />
+    <None Include="Resources\huella.jpg" />
+    <None Include="Resources\Fingerprint_48px11.png" />
+    <None Include="Resources\descarga %281%2911.jpg" />
+    <None Include="Resources\Ok_48px1.png" />
+    <None Include="Resources\Zoom In_48px1.png" />
+    <None Include="Resources\Zoom In_48px.png" />
+    <None Include="Resources\Search_48px1 - copia.png" />
+    <None Include="Resources\Touch ID_48px1.png" />
+    <None Include="Resources\Hand With Pen_48px1.png" />
+    <None Include="Resources\Name Tag_48px %282%29.png" />
+    <None Include="Resources\asdasdasdasd1.png" />
+    <None Include="Resources\asdasdasdasd.png" />
+    <None Include="Resources\QR Code_48px.png" />
+    <None Include="Resources\Typewriter Without Paper_48px.png" />
+    <None Include="Resources\System Information_48px.png" />
+    <None Include="Resources\Keyboard_48px.png" />
+    <None Include="Resources\Keyboard_26px.png" />
+    <None Include="Resources\Ok_48px.png" />
+    <None Include="Resources\Life Cycle_48px.png" />
+    <None Include="Resources\descarga %281%29.png" />
+    <None Include="Resources\Nueva imagen de mapa de bits %283%29.jpg" />
+    <None Include="Resources\Barber Scissors_48px.png" />
+    <None Include="Resources\Small Axe_48px.png" />
+    <None Include="Resources\Private_48px.png" />
+    <None Include="Resources\Exit_48px.png" />
+    <None Include="Resources\Access_48px.png" />
+    <None Include="Resources\Tick Box_48px.png" />
+    <None Include="Resources\Edit File_48px.png" />
+    <None Include="Resources\ssss1.jpg" />
+    <None Include="Resources\ssss.jpg" />
+    <None Include="Resources\descarga2.jpg" />
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="formularios\consultas\comparaciones\autenticar\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

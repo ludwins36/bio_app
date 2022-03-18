@@ -1,0 +1,691 @@
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\bin\Debug\bio.exe.config
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\bin\Debug\bio.exe
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\bin\Debug\bio.pdb
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\bin\Debug\MetroFramework.dll
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\portatil\Documents\Visual Studio 2010\Projects\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\bin\Debug\AForge.Video.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.a.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.pdb
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csprojAssemblyReference.cache
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.a.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.cache
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csproj.CoreCompileInputs.cache
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csproj.CopyComplete
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Kendo\Desktop\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.a.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\autenticacion_1\autenticacion_1\autenticacion\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\RdlCompile.cache
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\computadora_central\Documents\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Documents\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Documents\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Documents\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Pictures\bio\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Pictures\bio\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Pictures\bio\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\RdlCompile.cache
+C:\Users\Public\Pictures\bio\bio\bio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\bio\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Documents\bio\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Documents\bio\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Datos_de_Usuarios.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.fondo.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Menu_principal.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.perfiles.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.operadores.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Usuarios.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.reglas_para_perfiles.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Usuario_Detalles.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\RdlCompile.cache
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Documents\bio\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Desktop\bio\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Desktop\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\bin\Debug\bio.exe
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\bin\Debug\bio.pdb
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csprojAssemblyReference.cache
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.cache
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.CoreCompileInputs.cache
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.CopyComplete
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Kendo\Desktop\combinacion\bio_2biometrico_1.1\bio_2biometrico\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella_co.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.comparaciones.MainFormco.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Pictures\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella_co.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.comparaciones.MainFormco.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Videos\bio_2biometrico\bio_2biometrico\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Videos\bio_corregido\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\computadora_central\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reportes.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\DPFPDevNET.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\DPFPEngNET.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\DPFPShrNET.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\DPFPVerNET.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\FlashControlV71.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\bin\Debug\stdole.dll
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\Public\Videos\bio_listo\bio\bio\obj\x86\Debug\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.DadfScriptEditor.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Form1.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.frmScannerApp.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.TopologyPopupForm.resources
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo_sql\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.DadfScriptEditor.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Form15.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.impresora.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Form11.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.frmScannerApp.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.TopologyPopupForm.resources
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.exe.config
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.exe
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.pdb
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.exe
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\bio.pdb
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.DadfScriptEditor.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Form15.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.impresora.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Form11.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.base_reporte.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.consultas.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.frmScannerApp.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.TopologyPopupForm.resources
+C:\Users\Public\Music\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\bio_listo_sql_12 10 2019\bio\bio\obj\x86\Debug\bio.biometria.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.exe.config
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.exe
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.pdb
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Activacion.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.biometria.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.DadfScriptEditor.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Form15.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.impresora.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Form11.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.consultas_copia.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Configura.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Principal.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.presentacion.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.frmScannerApp.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.lector.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Registro.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte2.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.TopologyPopupForm.resources
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.exe
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.pdb
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\ftrSDKHelper12.dll
+C:\Users\Public\Documents\analisis\bio_fuente_8_3_2020\bio_fuente_8_3_2020\bin\Debug\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\bio.pdb
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\ftrSDKHelper12.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\bin\Debug\MetroFramework.dll
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.csprojResolveAssemblyReference.cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Activacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.biometria.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.DadfScriptEditor.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Form15.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.impresora.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Form11.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.EnrollmentName.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Autenticar.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.CapturarHuella.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.CaptureForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.consultas_copia.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Configura.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Configuraciones.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Principal.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm_new.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.MainForm_aut.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.presentacion.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.frmScannerApp.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.lector.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Properties.Resources.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.usuario_comun.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Registro.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.Registrar_clientes.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.UserControl1.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.SelectUser.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_2.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_3.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.reporte_4.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.TopologyPopupForm.resources
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio_fuente_9_3_2020\bio_fuente_8_3_2020\obj\x86\Debug\bio.csproj.GenerateResource.Cache
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\bin\Debug\bio.exe.config
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Debug\bio.exe
+C:\Users\computadora_central\Documents\Visual Studio 2010\Projects\bio__25_8_2020\bio__25_8_2020\bio__25_8_2020\obj\x86\Debug\bio.pdb
